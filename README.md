@@ -1,0 +1,2 @@
+# SCoin
+Just a joke

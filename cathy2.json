@@ -12,10 +12,10 @@
 		},
 		{
 			"chainId": 1,
-			"address": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf",
-			"name": "USDT",
-			"symbol": "USDT",
-			"decimals": 8,
+			"address": "TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
+			"name": "USDJ",
+			"symbol": "USDJ",
+			"decimals": 18,
 			"logoURI": "https://coin.top/production/upload/logo/TWsN5dHBCeG2hbRTC17YXsV9oDoN4tvmQW.png?t=1608857256223"
 
 		}

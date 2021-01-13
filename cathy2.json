@@ -1,7 +1,7 @@
 {
 	"name": "CATHY2",
 	"logoURI": "https://nile.tronscan.org/upload/logo/1000193.png",
-	"timestamp": "2020-11-23T01:40:34.305Z",
+	"timestamp": 1600222146000,
 	"tokens": [{
 			"chainId": 1,
 			"address": "TG9XJ75ZWcUw69W8xViEJZQ365fRupGkFP",
